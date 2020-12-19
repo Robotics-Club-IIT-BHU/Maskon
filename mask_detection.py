@@ -6,7 +6,7 @@ import os
 
 detector = MTCNN()
 cap = cv2.VideoCapture(0)
-# Load model ## Change filename here
+# Load model #
 model = tf.keras.models.load_model('model-2.h5')
 
 while cap.isOpened():
