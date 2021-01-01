@@ -1,5 +1,6 @@
 <sdf version='1.6'>
   <world name='default'>
+
     <light name='sun' type='directional'>
       <cast_shadows>1</cast_shadows>
       <pose frame=''>0 0 10 0 -0 0</pose>
@@ -13,6 +14,9 @@
       </attenuation>
       <direction>-0.5 0.1 -0.9</direction>
     </light>
+
+
+
     <model name='ground_plane'>
       <static>1</static>
       <link name='link'>
@@ -84,14 +88,7 @@
       <longitude_deg>0</longitude_deg>
       <elevation>0</elevation>
       <heading_deg>0</heading_deg>
-    </spherical_coordinates>
-
-    <actor name="actor">
-    <pose frame=''>0.1 0.1 0 0 0 0-</pose>
-      <skin>
-        <filename>stand.dae</filename>
-      </skin>
-    </actor>
+    </spherical_coordinates>z
 
     <model name='Model-2'>
       <pose frame=''>0.069 0.039 0 0 -0 0</pose>
@@ -576,3 +573,4 @@
     </gui>
   </world>
 </sdf>
+

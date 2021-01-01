@@ -2,14 +2,15 @@
 
 ## Simulation
 
-We thought to use turtlebot for simulation. It contains a lidar and we have mounted a camera to it. And we thought to simlate it in a mall-like environment like this
+We are using gazebo to simulate a mall-like environment and [turtlebot](http://wiki.ros.org/turtlebot3) as surveillance bot. Turtlebot contains a lidar and we have mounted a camera on it. 
 
-<div align="center"><img src="images/mall.png"/></div>
+<div align="center"><img src="images/mall.jpg"/><p><i><small>Mall-like environment</small></i></p></div>
 
-and bot looks like
 
-<div align="center"><img src="images/bot.png"/></div>
 
-we also thought to add human models like the below one
+<div align="center"><img src="images/bot.png"/><p><i><small>Turtlebot</small></i></p></div>
 
-<div align="center"><img src="images/human.png"/></div>
+we also use realistic human models with masks and without masks in mall
+
+<div align="center"><img src="images/diff_humans.jpg"/><p><i><small>Different Human Models</small></i></p></</div>
+
