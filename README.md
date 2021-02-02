@@ -1,6 +1,6 @@
 # Maskon
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
@@ -200,6 +200,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ananya130"><img src="https://avatars.githubusercontent.com/u/73734544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ananya Singh</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=ananya130" title="Code">💻</a> <a href="#ideas-ananya130" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/jatin1604"><img src="https://avatars.githubusercontent.com/u/60649790?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JATIN EAGA</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=jatin1604" title="Code">💻</a> <a href="#ideas-jatin1604" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
