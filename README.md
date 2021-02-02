@@ -1,6 +1,6 @@
 # Maskon
 
-**Maskon** is a surveillance setup built as a ROS package for mall-like environments in the times like COVID-19.  It includes checking people for the mask at the entrance and also a bot that roams in the mall checking people for the mask. 
+**Maskon** is a surveillance setup built as a ROS package for mall-like environments in the times like COVID-19. This was done under the **Robotics Research Group (RoboReG)**.  It includes checking people for the mask at the entrance and also a bot that roams in the mall checking people for the mask. 
 
 * [Environment](#Environment)
 * [Approach](#Approach)
