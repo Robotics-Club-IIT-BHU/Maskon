@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "vstark21",
+      "name": "V I S H W A S",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67263028?v=4",
+      "profile": "https://vstark21.github.io/website/",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Maskon",
+  "projectOwner": "Robotics-Club-IIT-BHU",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
