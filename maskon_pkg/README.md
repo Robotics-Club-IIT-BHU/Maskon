@@ -1,1 +1,0 @@
-**Catkin package containing related files for this project**
