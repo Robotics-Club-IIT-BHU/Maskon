@@ -8,7 +8,7 @@ We are using gazebo to simulate a mall-like environment and [turtlebot](http://w
 
 
 
-<div align="center"><img src="assets/bot.png"/><p><i><small>Turtlebot</small></i></p></div>
+<div align="center"><img src="assets/bot.png" width="50%"/><p><i><small>Turtlebot</small></i></p></div>
 
 we also use realistic human models with masks and without masks in mall
 
