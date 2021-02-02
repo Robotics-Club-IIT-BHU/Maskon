@@ -13,9 +13,7 @@
 
 We used the Gazebo simulator to simulate a mall-like environment and created different realistic human models using [Make Human](http://www.makehumancommunity.org/) software with and without a mask. And we used [turtlebot](http://wiki.ros.org/turtlebot3) as our surveillance bot. Turtlebot contains a lidar mounted on it and we have mounted a camera on it. 
 
-<div align="center"><img src="assets/mall.jpg" width="80%"/><p><i>Mall-like environment</i></p></div>
-<div align="center"><img src="assets/bot.png" width="50%"/><p><i>Turtlebot</i></p></div>
-<div align="center"><img src="assets/diff_humans.jpg" width="80%"/><p><i>Different Human Models</i></p></</div>
+<div align="center"><img src="assets/mall.jpg" width="80%"/><p><i>Mall-like environment</i></p><img src="assets/bot.png" width="50%"/><p><i>Turtlebot</i></p><img src="assets/diff_humans.jpg" width="80%"/><p><i>Different Human Models</i></p></</div>
 
 ## Approach
 
