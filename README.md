@@ -127,13 +127,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 #### Makers
-<table>	<table>
-  <tr>	  <tr>
+<table>	
+  <tr>	  
     <td align="center"><a href="https://github.com/ananya130"><img src="https://avatars.githubusercontent.com/u/73734544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ananya Singh</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=ananya130" title="Code">💻</a> <a href="#ideas-ananya130" title="Ideas, Planning, & Feedback">🤔</a></td>	    
     <td align="center"><a href="https://github.com/jatin1604"><img src="https://avatars.githubusercontent.com/u/60649790?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JATIN EAGA</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=jatin1604" title="Code">💻</a> <a href="#ideas-jatin1604" title="Ideas, Planning, & Feedback">🤔</a></td>	 
 	<td align="center"><a href="https://vstark21.github.io/website/"><img src="https://avatars.githubusercontent.com/u/67263028?v=4?s=100" width="100px;" alt=""/><br /><sub><b>V I S H W A S</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=vstark21" title="Code">💻</a> <a href="#design-vstark21" title="Design">🎨</a></td>	
     <td align="center"><a href="https://github.com/payal116"><img src="https://avatars.githubusercontent.com/u/60649731?v=4?s=100" width="100px;" alt=""/><br /><sub><b>payal116</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=payal116" title="Code">💻</a> <a href="#ideas-payal116" title="Ideas, Planning, & Feedback">🤔</a></td>	
-  </tr>	  </tr>
+  </tr>
 </table>
 
 #### Mentors
