@@ -1,11 +1,4 @@
 # Maskon
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 **Maskon** is a surveillance setup built as a ROS package for mall-like environments in the times like COVID-19. This was done under the **Robotics Research Group (RoboReG)**.  It includes checking people for the mask at the entrance and also a bot that roams in the mall checking people for the mask. 
 
 * [Environment](#Environment)
