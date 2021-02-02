@@ -197,6 +197,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://vstark21.github.io/website/"><img src="https://avatars.githubusercontent.com/u/67263028?v=4?s=100" width="100px;" alt=""/><br /><sub><b>V I S H W A S</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=vstark21" title="Code">💻</a> <a href="#design-vstark21" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/payal116"><img src="https://avatars.githubusercontent.com/u/60649731?v=4?s=100" width="100px;" alt=""/><br /><sub><b>payal116</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=payal116" title="Code">💻</a> <a href="#ideas-payal116" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
