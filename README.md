@@ -19,7 +19,7 @@ We used the Gazebo simulator to simulate a mall-like environment and created dif
 
 We have two different scenes here:
 
-* **Entrance checking node : ** We will have a camera at the entrance of the mall. So for every frame, we have detected faces in that frame using the [MTCNN](https://pypi.org/project/mtcnn/) library then classify those faces whether it has a mask on it or not using a **CNN** model which we trained on a dataset that contains faces with and without masks.
+* **Entrance checking node :** We will have a camera at the entrance of the mall. So for every frame, we have detected faces in that frame using the [MTCNN](https://pypi.org/project/mtcnn/) library then classify those faces whether it has a mask on it or not using a **CNN** model which we trained on a dataset that contains faces with and without masks.
 * **Bot node :** The bot *roams* inside the mall by avoiding obstacles using the data from the lidar sensor mounted on it. We will have a camera on the bot. So for every frame, we have extracted human poses using the [posenet](https://github.com/rwightman/posenet-python) library then extracted human faces from the pose information. And then classify those faces whether it has a mask on it or not using a **CNN** model which we trained on a dataset that contains faces with and without masks. 
 
 ## Installation
