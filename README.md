@@ -1,5 +1,8 @@
 # Maskon
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -125,16 +128,25 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ananya130"><img src="https://avatars.githubusercontent.com/u/73734544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ananya Singh</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=ananya130" title="Code">💻</a> <a href="#ideas-ananya130" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/jatin1604"><img src="https://avatars.githubusercontent.com/u/60649790?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JATIN EAGA</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=jatin1604" title="Code">💻</a> <a href="#ideas-jatin1604" title="Ideas, Planning, & Feedback">🤔</a></td>
-	<td align="center"><a href="https://vstark21.github.io/website/"><img src="https://avatars.githubusercontent.com/u/67263028?v=4?s=100" width="100px;" alt=""/><br /><sub><b>V I S H W A S</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=vstark21" title="Code">💻</a> <a href="#design-vstark21" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/payal116"><img src="https://avatars.githubusercontent.com/u/60649731?v=4?s=100" width="100px;" alt=""/><br /><sub><b>payal116</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=payal116" title="Code">💻</a> <a href="#ideas-payal116" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/lok-i"><img src="https://avatars.githubusercontent.com/u/54435909?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lokesh Krishna</b></sub></a><br /><a href="#mentoring-lok-i" title="Mentoring">🧑‍🏫</a> <a href="#ideas-lok-i" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

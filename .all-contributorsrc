@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "lok-i",
+      "name": "Lokesh Krishna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54435909?v=4",
+      "profile": "https://github.com/lok-i",
+      "contributions": [
+        "mentoring",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Maskon",
+  "projectOwner": "Robotics-Club-IIT-BHU",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
