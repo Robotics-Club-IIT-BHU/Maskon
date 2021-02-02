@@ -24,7 +24,7 @@ We have two different scenes here:
 
 ## Installation
 
-1. Firstly install ROS-Neotic, you can follow the instructions from the official [website](http://wiki.ros.org/noetic/Installation/Ubuntu#Installation)
+1. Firstly install ROS-Neotic, you can follow the instructions from the official [website](http://wiki.ros.org/noetic/Installation/Ubuntu#Installation).
 
 2. Install catkin tools for python3
 
@@ -41,11 +41,11 @@ We have two different scenes here:
    catkin_make
    ```
 
-   then this `devel/setup.bash` file of your workspace must be source every time when you want to use ROS packages created inside this workspace.
+   then the `devel/setup.bash` file of your workspace must be sourced every time when you want to use ROS packages created inside this workspace.
 
    ```shell
    gedit ~/.bashrc
-   source ~/maskon_pkg/devel/setup.bash
+   source ~/maskon_ws/devel/setup.bash
    ```
 
 4. As this package depends on turtlebot3 you need to clone turtlebot3 packages  into the `maskon_ws/src` directory
@@ -59,7 +59,7 @@ We have two different scenes here:
    catkin_make
    ```
 
-5. Clone this repository into the `maskon_pkg/src` directory
+5. Clone this repository into the `maskon_ws/src` directory
 
    ```shell
    cd ~/maskon_ws/src
@@ -68,10 +68,18 @@ We have two different scenes here:
    catkin_make
    ```
 
-6. Install required python libraries 
+6. We need to download `worlds` directory as we didn't include it in this repository due to its size
 
    ```shell
-   cd ~/maskon_ws/src/maskon_pkg
+   cd ~/maskon_ws/src/Maskon
+   wget https://github.com/Robotics-Club-IIT-BHU/Maskon/releases/download/v1.0/worlds.zip
+   unzip worlds.zip
+   ```
+   
+7. Install required python libraries 
+
+   ```shell
+   cd ~/maskon_ws/src/Maskon
    pip3 install -r requirements.txt 
    ```
 
@@ -82,7 +90,7 @@ There are two launch files for [entrance check](launch/enter_mall.launch) and [i
 1. Now launch `enter_mall.launch` file
 
    ```shell
-   roslaunch maskon_pkg enter_mall.launch
+   roslaunch Maskon enter_mall.launch
    ```
 
    you can see the gazebo window and Image window pops up as shown
@@ -92,7 +100,7 @@ There are two launch files for [entrance check](launch/enter_mall.launch) and [i
 2. Now launch `in_mal.launch` file
 
    ```shell
-   roslaunch maskon_pkg in_mall.launch
+   roslaunch Maskon in_mall.launch
    ```
 
    you can see the gazebo window and Bot's View window pops up as shown
