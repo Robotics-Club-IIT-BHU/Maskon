@@ -1,0 +1,51 @@
+<launch>
+
+<!-- Starting GAZEBO Simulator with mall world -->
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="world_name" value="$(find maskon_pkg)/worlds/mall.world"/>
+    <arg name="paused" value="false"/>
+    <arg name="use_sim_time" value="true"/>
+    <arg name="gui" value="true"/>
+    <arg name="headless" value="false"/>
+    <arg name="debug" value="false"/>
+  </include>
+
+
+<!-- Spawning Human Models -->
+
+<!-- Human-1 -->
+  <include file="$(find maskon_pkg)/launch/spawn.launch">
+    <arg name="x" default="9.25" />
+    <arg name="y" default="-11.75" />
+    <arg name="z" default="0.0" />
+    <arg name="yaw" default="0.75" />
+    <arg name="sdf_robot_file" default="$(find maskon_pkg)/worlds/humans/human5/model.sdf" />
+    <arg name="robot_name" default="human1" />
+  </include>
+
+<!-- Human-2 -->
+  <include file="$(find maskon_pkg)/launch/spawn.launch">
+    <arg name="x" default="10.0" />
+    <arg name="y" default="-11.0" />
+    <arg name="z" default="0.0" />
+    <arg name="yaw" default="1.57" />
+    <arg name="sdf_robot_file" default="$(find maskon_pkg)/worlds/humans/human3/model.sdf" />
+    <arg name="robot_name" default="human2" />
+  </include>
+
+  <!-- Human-3 -->
+  <include file="$(find maskon_pkg)/launch/spawn.launch">
+    <arg name="x" default="10.75" />
+    <arg name="y" default="-12.0" />
+    <arg name="z" default="0.0" />
+    <arg name="yaw" default="1.57" />
+    <arg name="sdf_robot_file" default="$(find maskon_pkg)/worlds/humans/human2/model.sdf" />
+    <arg name="robot_name" default="human3" />
+  </include>
+  
+<!-- Starting the entrance checking node -->
+  <node type="entrance_check.py" name="entrance_check" pkg="maskon_pkg" output="screen"/>
+  
+
+</launch>
+
