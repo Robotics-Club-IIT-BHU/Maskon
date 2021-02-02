@@ -1,9 +1,6 @@
 # Maskon
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Maskon** is a surveillance setup built as a ROS package for mall-like environments in the times like COVID-19. This was done under the **Robotics Research Group (RoboReG)**.  It includes checking people for the mask at the entrance and also a bot that roams in the mall checking people for the mask. 
@@ -119,79 +116,8 @@ There are two launch files for [entrance check](launch/enter_mall.launch) and [i
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <div align="center">You can see a person without mask and it draws a red box around his face</div> | <div align="center">You can see a person with mask and it draws a green box around his face</div> |
 
-## Team
 
-#### Makers
-
-<table>
-   <td align="center">
-      <a href="https://github.com/ananya130">
-         <img src="https://avatars.githubusercontent.com/u/73734544?s=400&v=4" width="100px;" alt=""/>
-         <br />
-         <sub>
-            <b>Ananya Singh</b>
-         </sub>
-      </a>
-      <br />
-   </td>
-   <td align="center">
-      <a href="https://github.com/jatin1604">
-         <img src="https://avatars.githubusercontent.com/u/60649790?s=400&v=4" width="100px;" alt=""/>
-         <br />
-         <sub>
-            <b>Eaga Jatin</b>
-         </sub>
-      </a>
-      <br />
-   </td>
-   <td align="center">
-      <a href="https://github.com/payal116">
-         <img src="https://avatars.githubusercontent.com/u/60649731?s=400&v=4" width="100px;" alt=""/>
-         <br />
-         <sub>
-            <b>Payal Pote</b>
-         </sub>
-      </a>
-      <br />
-   </td>
-   <td align="center">
-      <a href="https://github.com/vstark21">
-         <img src="https://avatars.githubusercontent.com/u/67263028?s=400&u=b29c82a39fa1df1689fbb65d8dc95a11c45d4d0e&v=4" width="100px;" alt=""/>
-         <br />
-         <sub>
-            <b>Vishwas Chepuri</b>
-         </sub>
-      </a>
-      <br />
-   </td>
-</table>
-
-#### Mentors
-
-<table>
-   <td align="center">
-      <a href="https://github.com/lok-i">
-         <img src="https://avatars1.githubusercontent.com/u/54435909?s=400&u=29af076049dab351b2e43621e9a433919bf50fb1&v=4" width="100px;" alt=""/>
-         <br />
-         <sub>
-            <b>Lokesh Krishna</b>
-         </sub>
-      </a>
-      <br />
-   </td>
-   <td align="center">
-      <a href="https://github.com/NiranthS">
-         <img src="https://avatars3.githubusercontent.com/u/44475481?s=400&v=4" width="100px;" alt=""/>
-         <br />
-         <sub>
-            <b>Niranth Sai</b>
-         </sub>
-      </a>
-      <br />
-   </td>
-</table>
-
-## Contributors ✨
+## Team ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -201,20 +127,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/ananya130"><img src="https://avatars.githubusercontent.com/u/73734544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ananya Singh</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=ananya130" title="Code">💻</a> <a href="#ideas-ananya130" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/jatin1604"><img src="https://avatars.githubusercontent.com/u/60649790?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JATIN EAGA</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=jatin1604" title="Code">💻</a> <a href="#ideas-jatin1604" title="Ideas, Planning, & Feedback">🤔</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://vstark21.github.io/website/"><img src="https://avatars.githubusercontent.com/u/67263028?v=4?s=100" width="100px;" alt=""/><br /><sub><b>V I S H W A S</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=vstark21" title="Code">💻</a> <a href="#design-vstark21" title="Design">🎨</a></td>
+	<td align="center"><a href="https://vstark21.github.io/website/"><img src="https://avatars.githubusercontent.com/u/67263028?v=4?s=100" width="100px;" alt=""/><br /><sub><b>V I S H W A S</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=vstark21" title="Code">💻</a> <a href="#design-vstark21" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/payal116"><img src="https://avatars.githubusercontent.com/u/60649731?v=4?s=100" width="100px;" alt=""/><br /><sub><b>payal116</b></sub></a><br /><a href="https://github.com/Robotics-Club-IIT-BHU/Maskon/commits?author=payal116" title="Code">💻</a> <a href="#ideas-payal116" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
