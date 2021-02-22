@@ -44,6 +44,7 @@ We have two different scenes here:
 
    ```shell
    gedit ~/.bashrc
+   # Add the below line in the .bashrc script
    source ~/maskon_ws/devel/setup.bash
    ```
 
