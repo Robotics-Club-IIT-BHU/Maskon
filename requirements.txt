@@ -1,6 +1,6 @@
 scipy==1.5.2
 opencv_python==4.5.1.48
-tensorflow==2.4.1
+tensorflow==2.5.0
 numpy==1.19.2
 mtcnn==0.1.0
 PyYAML==5.4.1
